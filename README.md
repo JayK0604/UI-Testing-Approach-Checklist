@@ -1,2 +1,24 @@
-# ui-testing-checklist
-Here is the UI testing checklist approach on the testing the demo e-commerce website.
+# UI Testing Checklist – Practice Automation Testing
+
+This project focuses on UI testing using a checklist-based approach on the 
+Practice Automation Testing website.
+
+## Website Tested
+https://practice.automationtesting.in/
+
+## Checklist Coverage
+- General UI
+- Layout & Alignment
+- Text & Fonts
+- Buttons & Links
+- Forms & Input Fields
+- Responsiveness
+
+## Tools Used
+- Manual UI inspection
+- Excel for checklist creation
+
+## Outcome
+Created 24 UI checklist points to validate UI consistency, usability,
+and responsiveness of the website.
+
