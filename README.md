@@ -1,4 +1,4 @@
-# UI Testing Checklist – Practice Automation Testing
+# UI Testing Checklist – Ecommerce Website
 
 This project focuses on UI testing using a checklist-based approach on the 
 Demo E-commerce website.
