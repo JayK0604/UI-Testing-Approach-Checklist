@@ -1,7 +1,7 @@
 # UI Testing Checklist – Practice Automation Testing
 
 This project focuses on UI testing using a checklist-based approach on the 
-Practice Automation Testing website.
+Demo E-commerce website.
 
 ## Website Tested
 https://practice.automationtesting.in/
